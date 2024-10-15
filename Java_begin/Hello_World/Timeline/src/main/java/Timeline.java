@@ -8,9 +8,9 @@ public class Timeline {
 
         System.out.println("You were created by James Gosling");
 
-        James Gosling is a Canadian engineer who
+        /*James Gosling is a Canadian engineer who
         created Java while working at Sun Microsystems.
-        His favorite number is the square root of 2!
+        His favorite number is the square root of 2!*/
 
         System.out.println("You are a fun language!");
 
