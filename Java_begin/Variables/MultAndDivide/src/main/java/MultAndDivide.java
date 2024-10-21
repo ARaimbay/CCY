@@ -4,5 +4,7 @@ public class MultAndDivide {
         double tax = 0.0875;
         double total = subtotal + subtotal * tax;
         System.out.println(total);
+        double perPerson = total / 4;
+        System.out.println(perPerson);
     }
 }
