@@ -5,5 +5,6 @@ public class EqualNotEqual {
         int albumLengthA = 41;
         int albumLengthB = 53;
         boolean sameNumberOfSongs = songsA == songsB;
+        boolean differentLength = albumLengthA != albumLengthB;
     }
 }
