@@ -3,5 +3,6 @@ public class Song {
         String line1 = "Nah nah nah nah nah nah nah nah nah yeah";
         String line2 = "Nah nah nah nah nah nah, nah nah nah, hey Jude";
         String line3 = "Nah nah nah nah nah nah, nah nah nah, hey Jude";
+        System.out.println(line1.equals(line2));
     }
 }
