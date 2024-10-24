@@ -1,6 +1,6 @@
 public class Magic {
     public static void main(String[] args) {
-        int myNumber = 0;
+        int myNumber = 1;
         //myNumber is an original number
         int stepOne = myNumber;
         int stepTwo = stepOne + myNumber;
