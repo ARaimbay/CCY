@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Our first shop sells " + lemonadeStand.productType + " at " + lemonadeStand.inventoryPrice + " per unit.");
 
         System.out.println("Our second shop has " + cookieShop.inventoryCount + " units remaining.");
+        //Store newStore = new Store();
     }
 }
