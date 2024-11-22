@@ -8,6 +8,9 @@ public class Store {
     }
 
     // Add advertise method below
+    public void advertise(){
+
+    }
 
 
 }
