@@ -13,6 +13,9 @@ public class Store {
         System.out.println("Selling " + productType + "!");
 
     }
+    public void greetCustomer() {
+
+    }
 
 
 }
