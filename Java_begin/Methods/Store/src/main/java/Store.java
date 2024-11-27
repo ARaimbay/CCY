@@ -14,6 +14,7 @@ public class Store {
 
     }
     public void greetCustomer(String customerName) {
+        System.out.println("Welcome to the store, " + customerName + "!"  );
 
     }
 
