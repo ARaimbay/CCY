@@ -13,7 +13,7 @@ public class Store {
         System.out.println("Selling " + productType + "!");
 
     }
-    public void greetCustomer() {
+    public void greetCustomer(String customerName) {
 
     }
 
