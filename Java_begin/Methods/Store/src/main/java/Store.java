@@ -1,6 +1,7 @@
 public class Store {
     // instance fields
     String productType;
+    public double price;
 
     // constructor method
     public Store(String product) {
@@ -15,6 +16,9 @@ public class Store {
     }
     public void greetCustomer(String customerName) {
         System.out.println("Welcome to the store, " + customerName + "!"  );
+
+    }
+    public void increasePrice(double priceToAdd){
 
     }
 
