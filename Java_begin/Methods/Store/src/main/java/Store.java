@@ -18,7 +18,8 @@ public class Store {
         System.out.println("Welcome to the store, " + customerName + "!"  );
 
     }
-    public void increasePrice(double priceToAdd){
+    public void increasePrice(double priceToAdd, double newPrice){
+        newPrice=price+priceToAdd;
 
     }
 
