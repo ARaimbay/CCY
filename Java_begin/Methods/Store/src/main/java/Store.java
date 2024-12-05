@@ -23,6 +23,9 @@ public class Store {
         price = newPrice;
 
     }
+    public double getPriceWithTax(){
+
+    };
 
 
 }
