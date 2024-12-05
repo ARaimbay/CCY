@@ -24,6 +24,7 @@ public class Store {
 
     }
     public double getPriceWithTax(){
+        double totalPrice = price+price*tax;
 
     };
 
