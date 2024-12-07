@@ -5,6 +5,8 @@ public class Main {
         lemonadeStand.greetCustomer("Codey");
         lemonadeStand.increasePrice(1.50);
         System.out.println(lemonadeStand.price);
+        double lemonadePrice = lemonadeStand.getPriceWithTax();
+        System.out.println(lemonadePrice);
 
     }
 }
