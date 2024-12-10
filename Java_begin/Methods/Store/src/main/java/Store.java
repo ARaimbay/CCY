@@ -28,6 +28,9 @@ public class Store {
         return totalPrice;
 
     }
+    public String toString(){
+
+    }
 
 
 }
