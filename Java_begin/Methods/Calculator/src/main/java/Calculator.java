@@ -1,5 +1,5 @@
 public class Calculator {
-    public Calculator() {
+    public Calculator(int a, int b) {
         int add;
     }
 }
