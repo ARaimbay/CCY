@@ -18,7 +18,7 @@ public class Calculator {
         return divide;
     }
     public int modulo(int a, int b){
-        return int a % b;
+        return a % b;
 
     }
 }
