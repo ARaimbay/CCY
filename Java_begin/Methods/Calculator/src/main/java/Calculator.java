@@ -23,6 +23,7 @@ public class Calculator {
     }
     public static void main() {
         System.out.print(add(5, 3));
+        System.out.println(substract(45, 11));
 
     }
 }
