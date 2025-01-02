@@ -21,6 +21,7 @@ public class Calculator {
         System.out.print(add(5, 3));
         System.out.print(substract(45, 11));
         System.out.println(modulo(2));
+        System.out.println(multiply(2, 3));
 
     }
 
