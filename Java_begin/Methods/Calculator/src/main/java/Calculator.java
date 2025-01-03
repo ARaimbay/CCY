@@ -17,6 +17,10 @@ public class Calculator {
     public int modulo(int b){
         return modulo;
     }
+    public int divide(int a, int b) {
+        int divide = a / b;
+        return divide;
+    }
     public static void main() {
         System.out.print(add(5, 3));
         System.out.print(substract(45, 11));
