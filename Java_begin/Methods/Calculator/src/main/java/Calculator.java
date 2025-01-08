@@ -30,6 +30,7 @@ public class Calculator {
         System.out.print(add (3, 7));
         System.out.print(substract(11,7));
         System.out.print(multiply(2, 11));
+        System.out.print(divide(2, 2));
 
     }
 
