@@ -21,6 +21,11 @@ public class Calculator {
         int divide = a / b;
         return divide;
     }
+    public int sqrt(int a) {
+        int sqrt = a;
+        return sqrt;
+    }
+
     public static void main() {
         System.out.print(add(5, 3));
         System.out.print(substract(45, 11));
@@ -32,6 +37,7 @@ public class Calculator {
         System.out.print(multiply(2, 11));
         System.out.print(divide(2, 2));
         System.out.println(modulo(1));
+        System.out.println();
 
     }
 
