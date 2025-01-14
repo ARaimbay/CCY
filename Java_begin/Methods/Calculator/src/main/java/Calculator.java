@@ -38,7 +38,7 @@ public class Calculator {
         System.out.print(divide(2, 2));
         System.out.println(modulo(1));
         System.out.println(sqrt(16));
-        System.out.printlm(divide(2, 2));
+        System.out.println(divide(2, 2));
 
     }
 
