@@ -40,6 +40,7 @@ public class Calculator {
         System.out.println(sqrt(16));
         System.out.println(divide(2, 2));
         System.out.println(add(1, 1));
+        System.out.println(modulo(2));
 
     }
 
