@@ -39,7 +39,7 @@ public class Calculator {
         System.out.println(modulo(1));
         System.out.println(sqrt(16));
         System.out.println(divide(2, 2));
-        System.out.println(add(1, 1));
+        System.out.println(add(2, 1));
         System.out.println(modulo(1));
         System.out.print(substract(5,3));
         System.out.println(divide(4, 4));
