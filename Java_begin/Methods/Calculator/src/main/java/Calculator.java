@@ -49,7 +49,7 @@ public class Calculator {
         System.out.print(multiply(5, 5));
         System.out.print(modulo(8));
         System.out.print(divide(2, 1));
-        System.out.println(sqrt(121));
+        System.out.println(sqrt(144));
 
 
     }
