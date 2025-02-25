@@ -45,7 +45,7 @@ public class Calculator {
         System.out.println(divide(4, 2));
         System.out.print(multiply(1, 5));
         System.out.print(modulo(5));
-        System.out.println(add(3, 3));
+        System.out.println(add(3, 4));
         System.out.print(multiply(5, 5));
         System.out.print(modulo(9));
         System.out.print(divide(2, 1));
